@@ -1,0 +1,26 @@
+.customerSearchBox {
+    display: flex;
+    align-items: end;
+    position: relative;
+
+    .MuiTextField-root {
+        width: 100%;
+        min-width: 500px;
+
+        .MuiInputLabel-root {
+            padding-left: 40px;
+        }
+
+        .MuiInputBase-input {
+            padding-left: 30px;
+        }
+    }
+}
+
+@media screen and (max-width:992px) {
+    .customerSearchBox {
+        .MuiTextField-root {
+            min-width: auto;
+        }
+    }
+}
