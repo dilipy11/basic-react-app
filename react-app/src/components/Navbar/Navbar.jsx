@@ -44,9 +44,9 @@ function Navbar() {
             >
               <ul className="navbar-nav me-auto mb-2 mb-lg-0">
                 <li className="nav-item">
-                  <Link className="nav-link" to="/">
+                  <a className="nav-link" href="/">
                     <img src={HomeIcon} alt="Home" />
-                  </Link>
+                  </a>
                 </li>
                 <li className="nav-item dropdown">
                   <a
@@ -61,9 +61,9 @@ function Navbar() {
                   <div className="dropdown-menu">
                     <ul>
                       <li>
-                        <Link className="dropdown-item" to="/">
+                        <a className="dropdown-item" href="/">
                           Job
-                        </Link>
+                        </a>
                       </li>
                       <li>
                         <a className="dropdown-item" href="/">

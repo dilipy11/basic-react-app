@@ -2,9 +2,43 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Basic React Appliation UI
+
+A React-based basic application UI featuring:
+- Component based UI
+- Bootstrap responsive menu
+- Sample table datagird
+- Clean UI built with Material-UI/Bootstrap.
+
+---
+
+## 🚀 Features
+- **Components**: Organizes UI with components.
+- **Header**: Bootstrap responsive menu.
+- **Smooth Animations**: Transition effects for an engaging user experience.
+
+---
+
+## 🛠️ Technologies
+- **React**: Component-based architecture.
+- **Material-UI and Bootstrap**: Modern and responsive UI components.
+- **CSS/SCSS**: Custom styling for animations.
+
+---
+
+## 🛡️ Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/dilipy11/basic-react-app.git
+
+
+## Navigate to the project folder
+
+cd react-app
+
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory - basic-react-app/react-app, you can run:
 
 ### `npm start`
 
